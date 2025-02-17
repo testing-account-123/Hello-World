@@ -2,3 +2,7 @@ Hello World!;
 Good morning!;
 
 This is a line of text
+
+function f() {
+  console.log("Hello World")
+}
