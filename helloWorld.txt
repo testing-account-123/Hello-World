@@ -12,3 +12,9 @@ function greet() {
 }
 
 greet()
+
+function bye() {
+  console.log("Bye")
+}
+
+bye()
