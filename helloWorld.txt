@@ -23,3 +23,6 @@ bye()
 
 A little surprise for you!
 Have fun!
+
+Wow. I am forking a repo on github and actually this is fun.
+Cool!
