@@ -1,6 +1,10 @@
 Hello World!;
 Good morning!;
 
+// Bug fixed; 
+
+const f = () => return 1;
+
 This is a line of text
 
 I am actually editing this file on Github
