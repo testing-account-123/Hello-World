@@ -11,6 +11,10 @@ function r(x) {
   return x ** 2
 }
 
+function t(x) {
+  retrun x ** 3
+}
+
 This is a line of text
 
 I am actually editing this file on Github
