@@ -5,6 +5,12 @@ Good morning!;
 
 const f = () => return 1;
 
+// Gonna need to close this issue soon;
+
+function r(x) {
+  return x ** 2
+}
+
 This is a line of text
 
 I am actually editing this file on Github
